@@ -1,0 +1,14 @@
+#part1{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlsdgcPlk4WN3F33kHVwyuahJMbaqvpQx9UFiEc8r4jA&s=10); 
+height:550px;
+background-size: cover;
+background-position: center;
+background-attachment:  fixed;
+}
+#part2{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo2f6P78PltK0W-m9uGSZEuLmu97j2F2HGPWJKmF64qQ&s=10); 
+height:550px;
+background-size: cover;
+background-position: center;
+background-attachment:  fixed;
+}
