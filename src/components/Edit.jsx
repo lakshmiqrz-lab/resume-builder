@@ -12,7 +12,7 @@ import Select from '@mui/material/Select';
 import { FaXmark } from 'react-icons/fa6';
 import jobTitle from '../assets/jobRole.json'
 import { useRef } from 'react';
-import { updateResumeAPI } from '../services/allApi';
+import { updateResumeAPI } from '../services/allAPI';
 
 
 

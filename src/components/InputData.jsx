@@ -13,7 +13,7 @@ import Select from '@mui/material/Select';
 import jobTitle from '../assets/jobRole.json'
 import skills from '../assets/jobSkills.json'
 import jobsummary from '../assets/summaries.json'
-import { addResumeAPI } from '../services/allApi';
+import { addResumeAPI } from '../services/allAPI';
 import { useNavigate } from 'react-router-dom';
 
 
